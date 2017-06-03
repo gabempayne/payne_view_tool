@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PayneViewTool::Renderer.copyright 'Gabe Payne', 'All rights reserved'
+```
 
 ## Development
 
